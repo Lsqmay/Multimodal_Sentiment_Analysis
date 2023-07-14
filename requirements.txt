@@ -1,0 +1,8 @@
+pandas==1.4.4
+numpy==1.23.3
+tqdm
+glob2
+scikit-learn
+torch==2.0.0
+torchvision==0.15.1
+transformers==4.30.2
